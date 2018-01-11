@@ -11,6 +11,14 @@ The purpose was to write an exercise in C and provide myself a quick path to a r
 
 ---
 
+## Build
+
+Use CMake to build with the included config `CMakeLists.txt` or use GCC:
+
+```shell
+gcc -Wall main.c CRA.c -o capital-gains-calc
+```
+
 ## Usage
 
 Example:

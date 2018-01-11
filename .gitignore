@@ -1,0 +1,9 @@
+############################
+# Capital Gains Calculator #
+#      Canada 2016/2017    #
+############################
+
+# Ignore these files
+.DS_Store
+.idea
+/cmake-build-debug/
